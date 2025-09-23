@@ -1,0 +1,24 @@
+.download_button {
+    flex-flow: row nowrap;
+    border-radius: 20px;
+    border: 8px solid rgb(0, 0, 0);
+    background: #99ff00;
+    background: -webkit-linear-gradient(90deg,rgba(153, 255, 0, 1) 0%, rgba(87, 199, 133, 1) 56%, rgba(181, 255, 207, 1) 100%);
+    background: -moz-linear-gradient(90deg,rgba(153, 255, 0, 1) 0%, rgba(87, 199, 133, 1) 56%, rgba(181, 255, 207, 1) 100%);
+    background: linear-gradient(90deg,rgba(153, 255, 0, 1) 0%, rgba(87, 199, 133, 1) 56%, rgba(181, 255, 207, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(
+        startColorstr="#99FF00",
+        endColorstr="#B5FFCF",
+        GradientType=1
+    );
+    color: white;
+}
+
+.downward_container {
+    width: 200px;
+}
+
+.downward_container img{
+    max-width: 100%;
+    max-height: 100%;
+}
