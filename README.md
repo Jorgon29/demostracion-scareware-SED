@@ -1,4 +1,4 @@
-# Demonstración Scareware
+# Demostración Scareware
 
 Hecho con React, Vite y Electron.
 
